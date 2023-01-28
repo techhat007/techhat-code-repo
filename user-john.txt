@@ -1,0 +1,7 @@
+Hey TechHat Team,
+
+This is user john and I uploaded this new file into the repository.  Later on, I will be uploading some shell scriptings and playbooks to this repo. 
+If you would like to get the latest copy of this repo on to your local machine, then please run "git pull origin main"
+
+Thank you,
+John
